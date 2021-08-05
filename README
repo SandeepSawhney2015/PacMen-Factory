@@ -1,3 +1,2 @@
 #PacMen Factory
-
 This project uses a button to create PacMen, giving them different velocities, directions, and positions every time. Later, using the "Start Game Button" gradually increases the velocity of the PacMen linearly. However, due to the velocity from the start, some PacMen seem to increase speed faster than others
